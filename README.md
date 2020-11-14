@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nemanja Paroski](https://github-readme-stats.vercel.app/api?username=nparoski&show_icons=true&theme=cobalt)
