@@ -1,4 +1,3 @@
-<h1 align="center" style="margin-bottom:0;"> Nemanja Paroški 👨‍💻 </h1>
 
 ## Interests
 
@@ -9,8 +8,6 @@
   📊 Analysis, Strategy, Planning  
   🏗 Software Architecture  
   
- <br>
- 
 <a href="https://github.com/nparoski">
   <img width="462px" src="https://github-readme-stats.vercel.app/api?username=nparoski&theme=tokyonight&show_icons=true" />
   <img width="388px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nparoski&theme=tokyonight&layout=compact" />
