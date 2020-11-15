@@ -1,4 +1,4 @@
-# Nemanja Paroški 👨‍💻
+<h1 align="center" > Nemanja Paroški 👨‍💻 <h1>
 
 <p align="center">
   💻 Full stack 
