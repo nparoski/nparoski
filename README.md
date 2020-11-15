@@ -1,8 +1,6 @@
 # Nemanja Paroški 👨‍💻
 
-## 🚀 Intrests:
-
-<p>
+<p align="center">
   💻 Full stack 
   ⚛ React  
   🛠 Node.js  
