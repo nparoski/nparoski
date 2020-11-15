@@ -20,5 +20,10 @@
   * CMS (Wordpress, custom)
   * Email templating (MJML)
   * Accessibility
-  
-  
+  * Agile development
+
+## 👀 Checking out:
+* Typescript
+* Agile development
+* React
+* Ruby on Rails
