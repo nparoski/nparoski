@@ -2,13 +2,15 @@
 
 ## 🚀 Intrests:
 
-💻 Full stack  
- ⚛ React  
- 🛠 Node.js  
- 💎 Ruby on Rails  
- 📊 Analysis, Strategy, Planning  
- 🏗 Software Architecture
- 
+<p>
+  💻 Full stack 
+  ⚛ React  
+  🛠 Node.js  
+  💎 Ruby on Rails  
+  📊 Analysis, Strategy, Planning 
+  🏗 Software Architecture  
+</p>
+
  <br>
  
 <a href="https://github.com/nparoski">
