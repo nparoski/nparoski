@@ -15,23 +15,4 @@ _Note: These statistics are from public only repo's_
  💎 Ruby on Rails  
  📊 Analysis, Strategy, Planning  
  🏗 Software Architecture
-
-## 🧠 Knowledge:
-
-- React
-- PHP
-- MySQL
-- AJAX
-- Sass
-- Automation (Gulp, Webpack)
-- CMS (Wordpress, custom)
-- Email templating (MJML)
-- Accessibility
-- Agile development
-
-## 👀 Checking out:
-
-- Typescript
-- Agile development
-- React
-- Ruby on Rails
+ 
