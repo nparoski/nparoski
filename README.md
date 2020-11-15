@@ -1,12 +1,14 @@
-<h1 align="center" > Nemanja Paroški 👨‍💻 </h1>
+<h1 align="center" style="margin-bottom:0;"> Nemanja Paroški 👨‍💻 </h1>
+
+<h2 align="center"> Interests </h2>
 
 <p align="center">
   💻 Full stack 
-  ⚛ React  
-  🛠 Node.js  
-  💎 Ruby on Rails  
+  ⚛ React 
+  🛠 Node.js 
+  💎 Ruby on Rails 
   📊 Analysis, Strategy, Planning 
-  🏗 Software Architecture  
+  🏗 Software Architecture 
 </p>
 
  <br>
