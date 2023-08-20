@@ -4,7 +4,7 @@
   💻 Full stack  
   ⚛ React  
   🛠 Node.js  
-  💎 Ruby on Rails  
+  🦁 Nestjs
   📊 Analysis, Strategy, Planning  
   🏗 Software Architecture  
   🧪 CI / CD
